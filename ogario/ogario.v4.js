@@ -1349,7 +1349,8 @@ var legendflags = ["author of agar.io", "author of lm", "yugoslavia", "virgil", 
     "botswana", "brazil", "bulgaria", "bush", "byzantium", "cambodia", "canada", "chavez", "chile", "china", "cia", "clinton", "confederate", "croatia", "cuba", "denmark", "dilma", "earth", "estonia", "european-union", "facebook",
     "facepunch", "feminism", "fidel", "finland", "france", "french-kingdom", "german-empire", "germany", "greece", "hillary", "hollande", "hungary", "imperial-japan", "india", "indiana", "iran", "iraq", "ireland", "italy", "jamaica",
     "japan", "kc", "kim-jong-un", "latvia", "lithuania", "luxembourg", "maldivas", "mars", "matriarchy", "merkel", "mexico", "nasa", "netherlands", "nigeria", "north-korea", "norway", "obama", "origin", "pakistan", "palin",
-    "patriarchy", "peru", "pewdiepie", "piccolo", "pokerface", "portugal", "prodota", "prussia", "putin", "qing-dynasty", "quebec", "queen", "reddit", "romania", "mistik"
+    "patriarchy", "peru", "pewdiepie", "piccolo", "pokerface", "portugal", "prodota", "prussia", "putin", "qing-dynasty", "quebec", "queen", "reddit", "romania", "mistik", "3ezzy", "3LK", "7MODKA", "agarbot.OᐯＨ", "Agarmurfs", "alejo", "alejoyoutube", "Alejoyt2", "Araizon", "Ashwin", "Ashwinyt", "Brax", "Bulba", "Char", "DNA Clan", "EvilMonkey", "GDK Xmas", "GetDeadKid", "GURI", "Hero", "MAJNOON", "NbRhmi", "OP-BOTS.𝗖𝗢𝗠", "Pika", "Sarok1", "Sarok2", "silver", "Skills", "Skillsyt", "Sneddy Gaming", "SonicGames", "Sparky", "Squi", "Timid", "Togoman", "twisted", "Woobs", "YemeniYT"
+
 ];
 
 var emoticonicons = {
