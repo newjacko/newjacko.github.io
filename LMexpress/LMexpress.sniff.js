@@ -134,3 +134,5 @@ function getParameterByName2(name) {
     }
 
 }
+
+
